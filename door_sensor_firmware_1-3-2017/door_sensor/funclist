@@ -1,0 +1,14 @@
+_ADC1_Initialize: CODE, 1543 0 9
+_PIN_MANAGER_Initialize: CODE, 1527 0 16
+_sendSignal: CODE, 1380 0 101
+_serial: CODE, 1021 0 3
+_FVR_Initialize: CODE, 1582 0 4
+_delay_us: CODE, 1481 0 23
+_ADC1_GetConversion: CODE, 1504 0 23
+_main: CODE, 1043 0 119
+__initialization: CODE, 1024 0 16
+_manchester_enc: CODE, 1275 0 105
+_crc12: CODE, 1162 0 113
+_OSCILLATOR_Initialize: CODE, 1577 0 5
+_SYSTEM_Initialize: CODE, 1572 0 5
+Total: 542
