@@ -1,0 +1,9 @@
+_PIN_MANAGER_Initialize: CODE, 623 0 15
+_sendSignal: CODE, 799 0 101
+_delay_us: CODE, 638 0 23
+_main: CODE, 701 0 98
+__initialization: CODE, 1005 0 16
+_manchester_enc: CODE, 900 0 105
+_OSCILLATOR_Initialize: CODE, 606 0 5
+_SYSTEM_Initialize: CODE, 603 0 3
+Total: 366
